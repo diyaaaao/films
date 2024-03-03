@@ -1,0 +1,1 @@
+import{_ as a}from"./Dynamic-474a250a.js";import{x as o,y as t,o as r,c,a as s}from"./index-e4e7dce6.js";/* empty css              */const d={__name:"MoviePage",setup(n){const e=o("reload");return t(()=>{e()}),(_,m)=>(r(),c("div",null,[s(a,{type:"movie"})]))}};export{d as default};

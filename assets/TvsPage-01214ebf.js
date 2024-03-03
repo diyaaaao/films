@@ -1,0 +1,1 @@
+import{_ as e}from"./Media-b93cc89c.js";import{o as t,c as a,a as o}from"./index-e4e7dce6.js";/* empty css              */const s={class:"main"},i={__name:"TvsPage",setup(c){return(r,_)=>(t(),a("div",s,[o(e,{type:"tv"})]))}};export{i as default};
